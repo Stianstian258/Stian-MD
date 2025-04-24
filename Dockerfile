@@ -1,6 +1,3 @@
-# Use the base image from Quay.io
-FROM quay.io/stian-md/stian-md:latest
-
 # Clone the repository from GitHub
 RUN git clone https://github.com/Stianstian258/Stian-MD.git
 
