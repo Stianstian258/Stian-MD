@@ -6,7 +6,7 @@
   "scripts": {
     "start": "pm2 start . --attach --name Stian-MD",
     "docker": "pm2-runtime start . --name Stian-MD",
-    "stop": "pm2 stop levanter",
+    "stop": "pm2 stop Stian-MD",
     "postinstall": "node -e \"try { require('sharp') } catch (e) { process.exit(1); }\" || yarn add --ignore-engines sharp@0.33.5"
   },
   "author": "",
