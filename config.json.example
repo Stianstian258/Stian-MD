@@ -1,9 +1,9 @@
 {
   "session1": {
-    "SESSION_ID": "levanter_sessionid",
+    "SESSION_ID": "Stian_sessionid",
     "PREFIX": "^[.,!]",
     "SUDO": "0",
-    "STICKER_PACKNAME": "❤️,LyFE",
+    "STICKER_PACKNAME": "😎,Stian",
     "ALWAYS_ONLINE": "false",
     "RMBG_KEY": "null",
     "WARN_LIMIT": "3",
@@ -33,11 +33,11 @@
     "CMD_REACTION": "true"
   },
   "session2": {
-    "SESSION_ID": "levanter_sessionid",
+    "SESSION_ID": "Stian_sessionid",
     "PREFIX": "null"
   },
   "session3": {
-    "SESSION_ID": "levanter_sessionid",
+    "SESSION_ID": "Stian_sessionid",
     "PREFIX": ".."
   }
 }
